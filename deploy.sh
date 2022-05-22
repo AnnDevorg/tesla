@@ -6,4 +6,5 @@ tumi
 mayowa
 abi
 ayo
+deploy in the dev environment
 
